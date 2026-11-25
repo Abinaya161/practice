@@ -9,7 +9,6 @@ public class tree {
         fruits.add("banana");
         fruits.add("strawberry");
         System.out.println(fruits);
-
         System.out.println(fruits.contains("banana"));
         System.out.println(fruits.contains("mango"));
         System.out.println(fruits.isEmpty());
